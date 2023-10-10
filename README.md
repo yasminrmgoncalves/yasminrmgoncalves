@@ -1,7 +1,7 @@
 ## Olá! Sou a Yasmin! 👋 
 
 
-- 🔭 Atualmente estou trabalhando como aprendiz administrativo na Arcor do Brasil
+- 🔭 Atualmente estou trabalhando como Auxiliar de Desenvolvimento na Humanitarian Calçados
 - 🌱 Sou estudante do curso de Análise e Desenvolvimento de Sistemas do Instituto Federal de Ciência e Tecnologia de São Paulo
 - ✨ Estou iniciando meus estudos em Banco de Dados, que é onde planejo seguir minha carreira na tecnologia
 - 😄 Meus pronomes são: ela/dela
