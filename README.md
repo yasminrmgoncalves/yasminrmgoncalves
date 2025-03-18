@@ -1,9 +1,9 @@
 ## Olá! Sou a Yasmin! 👋 
 
 
-- 🔭 Atualmente estou trabalhando como Assistente de Desenvolvimento na Humanitarian Calçados
-- 🌱 Sou estudante do curso de Análise e Desenvolvimento de Sistemas do Instituto Federal de Ciência e Tecnologia de São Paulo
-- ✨ Estou iniciando meus estudos em Banco de Dados, que é onde planejo seguir minha carreira na tecnologia
+- 🔭 Atualmente estou trabalhando como Desenvolvedora SQL Junior na empresa I4PRO
+- 🌱 Sou graduada do curso de Análise e Desenvolvimento de Sistemas do Instituto Federal de Ciência e Tecnologia de São Paulo
+- ✨ Estou aprimorando meus estudos em Banco de Dados a cada dia, que é onde planejo manter minha carreira em tecnologia
 - 😄 Meus pronomes são: ela/dela
 
 <div><a href="https://github.com/yasminrmgoncalves"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminrmgoncalves&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminrmgoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
